@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\multiplayerpartygamecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\multiplayerpartygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerpartygame\\definitions.multiplayerpartygame.h",
+            "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\multiplayerpartygamecharacter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\multiplayerpartygamecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

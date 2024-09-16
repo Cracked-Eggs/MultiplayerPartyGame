@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\multiplayerpartygame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\multiplayerpartygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerpartygame\\definitions.multiplayerpartygame.h",
+            "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\multiplayerpartygame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

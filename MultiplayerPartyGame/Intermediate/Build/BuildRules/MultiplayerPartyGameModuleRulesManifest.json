@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GDWProject\\MultiplayerPartyGame\\MultiplayerPartyGame\\Source\\MultiplayerPartyGame\\MultiplayerPartyGame.Build.cs",
+		"C:\\GDWProject\\MultiplayerPartyGame\\MultiplayerPartyGame\\Source\\MultiplayerPartyGame.Target.cs",
+		"C:\\GDWProject\\MultiplayerPartyGame\\MultiplayerPartyGame\\Source\\MultiplayerPartyGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
