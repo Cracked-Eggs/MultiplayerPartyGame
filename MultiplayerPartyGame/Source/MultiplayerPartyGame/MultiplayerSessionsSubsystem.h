@@ -22,5 +22,20 @@ public:
 	void Deinitialize() override;
 
 	IOnlineSessionPtr SessionInterface;
+
+	UFUNCTION(BlueprintCallable)
+	void CreateServer(FString ServerName);
+
+	UFUNCTION(BlueprintCallable)
+	void FindServer(FString ServerName);
+
+	void OnCreateSessionComplete(FName SessionName, bool WasSuccessful);
+	void OnDestroySessionComplete(FName SessionName, bool WasSuccessful);
+
+	bool CreateServerAfterDestroy;
+	FString DestroyServerName;
+
+
+
 	
 };
