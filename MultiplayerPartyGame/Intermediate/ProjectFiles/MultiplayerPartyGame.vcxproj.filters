@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MultiplayerPartyGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiplayerPartyGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MultiplayerPartyGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MultiplayerPartyGame">
+      <UniqueIdentifier>{74CB0D12-7DFE-3582-8B85-3E217AFF07A7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiplayerPartyGame\MultiplayerPartyGame.Build.cs">
+      <Filter>Source\MultiplayerPartyGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MultiplayerPartyGame\MultiplayerPartyGame.cpp">
+      <Filter>Source\MultiplayerPartyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiplayerPartyGame\MultiplayerPartyGame.h">
+      <Filter>Source\MultiplayerPartyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiplayerPartyGame\MultiplayerPartyGameCharacter.cpp">
+      <Filter>Source\MultiplayerPartyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiplayerPartyGame\MultiplayerPartyGameCharacter.h">
+      <Filter>Source\MultiplayerPartyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiplayerPartyGame\MultiplayerPartyGameGameMode.cpp">
+      <Filter>Source\MultiplayerPartyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiplayerPartyGame\MultiplayerPartyGameGameMode.h">
+      <Filter>Source\MultiplayerPartyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiplayerPartyGame\MultiplayerSessionsSubsystem.cpp">
+      <Filter>Source\MultiplayerPartyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiplayerPartyGame\MultiplayerSessionsSubsystem.h">
+      <Filter>Source\MultiplayerPartyGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
