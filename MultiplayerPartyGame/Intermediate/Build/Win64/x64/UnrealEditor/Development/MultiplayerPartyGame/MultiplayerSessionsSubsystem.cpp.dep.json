@@ -13,10 +13,10 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
-            "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\multiplayersessionssubsystem.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesessionsettings.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
-            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesessionsettings.h"
+            "c:\\gdwproject\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\multiplayersessionssubsystem.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
