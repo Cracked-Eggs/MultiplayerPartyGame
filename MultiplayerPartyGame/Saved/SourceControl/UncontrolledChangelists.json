@@ -5,15 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/GDWProject/MultiplayerPartyGame/MultiplayerPartyGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/GDWProject/MultiplayerPartyGame/MultiplayerPartyGame/Content/MainMenu/WBP_MainMenu.uasset",
-				"C:/GDWProject/MultiplayerPartyGame/MultiplayerPartyGame/Content/MainMenu/MainMenu.umap"
-=======
-				"C:/Users/shezw/OneDrive/Documents/GitHub/MultiplayerPartyGame/MultiplayerPartyGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/shezw/OneDrive/Documents/GitHub/MultiplayerPartyGame/MultiplayerPartyGame/Content/MyNewCharacterController.uasset",
-				"C:/Users/shezw/OneDrive/Documents/GitHub/MultiplayerPartyGame/MultiplayerPartyGame/Content/Blueprints/NewGameMode.uasset"
->>>>>>> Stashed changes
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/FACTORY.umap",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/_GENERATED/samfa/Box_F83E9B04.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/CustomMeshes/Box_A6579582.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/CustomMeshes/Extrude_4BA953F1.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/CustomMeshes/Extrude_47CE6EBF.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/CustomMeshes/Extrude_F07BA734.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/Maps/FACTORY.umap"
 			]
 		}
 	]
