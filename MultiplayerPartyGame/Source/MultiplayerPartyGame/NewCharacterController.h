@@ -46,7 +46,7 @@ public:
 	void UpgradeLeftArm();
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Upgrades")
-	USkeletalMesh* LeftArmUpgradeMesh;
+	class USkeletalMesh* LeftArmUpgradeMesh;
 
 	
 private:

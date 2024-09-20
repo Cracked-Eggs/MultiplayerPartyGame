@@ -1,21 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-<<<<<<< HEAD
         "Source": "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\multiplayersessionssubsystem.cpp",
         "ProvidedModule": "",
         "PCH": "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\multiplayerpartygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
             "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerpartygame\\definitions.multiplayerpartygame.h",
             "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\multiplayersessionssubsystem.h",
-=======
-        "Source": "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\multiplayersessionssubsystem.cpp",
-        "ProvidedModule": "",
-        "PCH": "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\multiplayerpartygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
-        "Includes": [
-            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerpartygame\\definitions.multiplayerpartygame.h",
-            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\multiplayersessionssubsystem.h",
->>>>>>> FactoryMapUpdate
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
@@ -25,11 +16,7 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesessionsettings.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
-<<<<<<< HEAD
             "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\multiplayersessionssubsystem.generated.h"
-=======
-            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\multiplayersessionssubsystem.generated.h"
->>>>>>> FactoryMapUpdate
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

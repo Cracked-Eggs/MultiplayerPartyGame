@@ -175,23 +175,14 @@ UMultiplayerSessionsSubsystem::~UMultiplayerSessionsSubsystem() {}
 // End Class UMultiplayerSessionsSubsystem
 
 // Begin Registration
-<<<<<<< HEAD
 struct Z_CompiledInDeferFile_FID_Users_shezw_OneDrive_Documents_GitHub_MultiplayerPartyGame_MultiplayerPartyGame_Source_MultiplayerPartyGame_MultiplayerSessionsSubsystem_h_Statics
-=======
-struct Z_CompiledInDeferFile_FID_Unreal_MultiplayerPartyGame_MultiplayerPartyGame_Source_MultiplayerPartyGame_MultiplayerSessionsSubsystem_h_Statics
->>>>>>> FactoryMapUpdate
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UMultiplayerSessionsSubsystem, UMultiplayerSessionsSubsystem::StaticClass, TEXT("UMultiplayerSessionsSubsystem"), &Z_Registration_Info_UClass_UMultiplayerSessionsSubsystem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UMultiplayerSessionsSubsystem), 318135090U) },
 	};
 };
-<<<<<<< HEAD
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_shezw_OneDrive_Documents_GitHub_MultiplayerPartyGame_MultiplayerPartyGame_Source_MultiplayerPartyGame_MultiplayerSessionsSubsystem_h_480700290(TEXT("/Script/MultiplayerPartyGame"),
 	Z_CompiledInDeferFile_FID_Users_shezw_OneDrive_Documents_GitHub_MultiplayerPartyGame_MultiplayerPartyGame_Source_MultiplayerPartyGame_MultiplayerSessionsSubsystem_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_shezw_OneDrive_Documents_GitHub_MultiplayerPartyGame_MultiplayerPartyGame_Source_MultiplayerPartyGame_MultiplayerSessionsSubsystem_h_Statics::ClassInfo),
-=======
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_MultiplayerPartyGame_MultiplayerPartyGame_Source_MultiplayerPartyGame_MultiplayerSessionsSubsystem_h_480700290(TEXT("/Script/MultiplayerPartyGame"),
-	Z_CompiledInDeferFile_FID_Unreal_MultiplayerPartyGame_MultiplayerPartyGame_Source_MultiplayerPartyGame_MultiplayerSessionsSubsystem_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_MultiplayerPartyGame_MultiplayerPartyGame_Source_MultiplayerPartyGame_MultiplayerSessionsSubsystem_h_Statics::ClassInfo),
->>>>>>> FactoryMapUpdate
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\multiplayerpartygame.init.gen.cpp",
+        "Source": "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\multiplayerpartygame.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\multiplayerpartygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\multiplayerpartygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerpartygame\\definitions.multiplayerpartygame.h"
+            "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerpartygame\\definitions.multiplayerpartygame.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
