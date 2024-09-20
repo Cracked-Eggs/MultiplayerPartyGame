@@ -33,8 +33,22 @@ public:
 
 	void ToggleArm();
 
-	void ActivateRagdoll();
+	void StartRetractArm();
 
+	void StartAiming();
+	void StopAiming();
+	void Shoot();
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Mesh")
+	class USkeletalMeshComponent* CharacterMesh;
+
+	UFUNCTION(BlueprintCallable)
+	void UpgradeLeftArm();
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Upgrades")
+	USkeletalMesh* LeftArmUpgradeMesh;
+
+	
 private:
 
 	UPROPERTY(VisibleAnywhere, Category = "Components")
@@ -43,8 +57,7 @@ private:
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	class UCameraComponent* Camera;
 
-	UPROPERTY(VisibleAnywhere)
-	class USkeletalMeshComponent* CharacterMesh;
+	
 
 	UPROPERTY()
 	class ALeftArmActor* LeftArmActor;
@@ -59,9 +72,16 @@ private:
 	UPROPERTY()
 	class ATorsoActor* TorsoActor;
 
+	
+
 	void AttachBodyParts();
+	void DetachAllBodyParts();  
+	void ReattachAllBodyParts();
 
 
+	void SetupArmConstraints();
+
+	void ManuallyMoveArm(float DeltaTime);
 
 
 	bool bIsArmDismembered;
@@ -70,8 +90,21 @@ private:
 	FVector DetachPosition;
 	float RetractSpeed = 300.0f;
 	bool bIsRetracting = false;
+	bool bIsAiming;
+	FVector AimDirection;
 	
+	FTimerHandle RetractTimerHandle;
+
+	float DefaultFOV;
+	float AimingFOV;
+	float FOVInterpSpeed;
+
+	bool bIsArmLaunched = false;
+	bool bIsArmAttached = false;
+
+	bool bIsDetached;
 
 	
-
+	class UPhysicsConstraintComponent* LeftArmConstraint;
+	class UPhysicsConstraintComponent* RightArmConstraint;
 };

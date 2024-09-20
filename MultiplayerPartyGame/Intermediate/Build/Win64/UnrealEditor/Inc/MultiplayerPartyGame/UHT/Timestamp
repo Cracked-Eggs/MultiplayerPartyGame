@@ -1,15 +1,10 @@
-<<<<<<< Updated upstream
-C:\GDWProject\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\MultiplayerPartyGameGameMode.h
-C:\GDWProject\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\MultiplayerPartyGameCharacter.h
-C:\GDWProject\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\MultiplayerSessionsSubsystem.h
-=======
 C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\LeftArmActor.h
-C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\MultiplayerPartyGameGameMode.h
-C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\RightArmActor1.h
-C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\RightLegActor.h
-C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\LeftLegActor.h
-C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\HeadActor.h
-C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\TorsoActor.h
 C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\MultiplayerPartyGameCharacter.h
+C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\MultiplayerPartyGameGameMode.h
+C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\LeftLegActor.h
+C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\RightArmActor1.h
+C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\HeadActor.h
+C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\MultiplayerSessionsSubsystem.h
 C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\NewCharacterController.h
->>>>>>> Stashed changes
+C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\RightLegActor.h
+C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source\MultiplayerPartyGame\TorsoActor.h

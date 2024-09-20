@@ -281,13 +281,8 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-<<<<<<< Updated upstream
-/I "C:\GDWProject\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\UnrealEditor\Inc\MultiplayerPartyGame\UHT"
-/I "C:\GDWProject\MultiplayerPartyGame\MultiplayerPartyGame\Source"
-=======
 /I "C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\UnrealEditor\Inc\MultiplayerPartyGame\UHT"
 /I "C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Source"
->>>>>>> Stashed changes
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
