@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\UnrealEditor\Inc\MultiplayerPartyGame\UHT\MultiplayerSessionsSubsystem.gen.cpp"
 /FI"C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\MultiplayerPartyGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
 /FI"C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerPartyGame\Definitions.MultiplayerPartyGame.h"
@@ -6,6 +7,16 @@
 /Fo"C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerPartyGame\MultiplayerSessionsSubsystem.gen.cpp.obj"
 /sourceDependencies "C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerPartyGame\MultiplayerSessionsSubsystem.gen.cpp.dep.json"
 @"C:\Users\shezw\OneDrive\Documents\GitHub\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerPartyGame\MultiplayerPartyGame.Shared.rsp"
+=======
+"C:\Unreal\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\UnrealEditor\Inc\MultiplayerPartyGame\UHT\MultiplayerSessionsSubsystem.gen.cpp"
+/FI"C:\Unreal\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\MultiplayerPartyGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Unreal\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerPartyGame\Definitions.MultiplayerPartyGame.h"
+/Yu"C:\Unreal\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\MultiplayerPartyGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Unreal\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\MultiplayerPartyGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Unreal\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerPartyGame\MultiplayerSessionsSubsystem.gen.cpp.obj"
+/sourceDependencies "C:\Unreal\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerPartyGame\MultiplayerSessionsSubsystem.gen.cpp.dep.json"
+@"C:\Unreal\MultiplayerPartyGame\MultiplayerPartyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerPartyGame\MultiplayerPartyGame.Shared.rsp"
+>>>>>>> FactoryMapUpdate
 /Zc:inline
 /nologo
 /Oi

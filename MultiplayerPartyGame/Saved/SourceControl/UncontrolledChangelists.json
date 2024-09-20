@@ -5,12 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/shezw/OneDrive/Documents/GitHub/MultiplayerPartyGame/MultiplayerPartyGame/Content/MyNewCharacterController.uasset",
 				"C:/Users/shezw/OneDrive/Documents/GitHub/MultiplayerPartyGame/MultiplayerPartyGame/Content/MOVEMENT/MODELS/dummy_PhysicsAsset.uasset",
 				"C:/Users/shezw/OneDrive/Documents/GitHub/MultiplayerPartyGame/MultiplayerPartyGame/Content/MOVEMENT/MODELS/LeftArmUpgrade.uasset",
 				"C:/Users/shezw/OneDrive/Documents/GitHub/MultiplayerPartyGame/MultiplayerPartyGame/Content/MOVEMENT/MODELS/LeftArmUpgrade_PhysicsAsset.uasset",
 				"C:/Users/shezw/OneDrive/Documents/GitHub/MultiplayerPartyGame/MultiplayerPartyGame/Content/StarterContent/Props/Materials/M_Door.uasset",
 				"C:/Users/shezw/OneDrive/Documents/GitHub/MultiplayerPartyGame/MultiplayerPartyGame/Content/NewMaterial.uasset"
+=======
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/FACTORY.umap",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/_GENERATED/samfa/Box_F83E9B04.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/CustomMeshes/Box_A6579582.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/CustomMeshes/Extrude_4BA953F1.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/CustomMeshes/Extrude_47CE6EBF.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/CustomMeshes/Extrude_F07BA734.uasset",
+				"C:/Unreal/MultiplayerPartyGame/MultiplayerPartyGame/Content/Maps/FACTORY.umap"
+>>>>>>> FactoryMapUpdate
 			]
 		}
 	]

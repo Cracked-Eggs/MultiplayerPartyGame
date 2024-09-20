@@ -2,6 +2,10 @@
 	"BuildId": "33043543",
 	"Modules": 
 	{
+<<<<<<< HEAD
 		"MultiplayerPartyGame": "UnrealEditor-MultiplayerPartyGame-3433.dll"
+=======
+		"MultiplayerPartyGame": "UnrealEditor-MultiplayerPartyGame.dll"
+>>>>>>> FactoryMapUpdate
 	}
 }

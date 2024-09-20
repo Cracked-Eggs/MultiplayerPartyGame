@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\newcharactercontroller.cpp",
+        "Source": "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\newcharactercontroller.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\multiplayerpartygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\multiplayerpartygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerpartygame\\definitions.multiplayerpartygame.h",
-            "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\newcharactercontroller.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerpartygame\\definitions.multiplayerpartygame.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\newcharactercontroller.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
@@ -15,7 +15,7 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\newcharactercontroller.generated.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\newcharactercontroller.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
@@ -38,6 +38,7 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\charactermovementcomponentasync.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementcomponentasync.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementcomponent.generated.h",
+<<<<<<< HEAD
             "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\leftarmactor.h",
             "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\leftarmactor.generated.h",
             "c:\\users\\shezw\\onedrive\\documents\\github\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\rightarmactor1.h",
@@ -56,6 +57,20 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintinstance.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicsconstraintcomponent.generated.h"
+=======
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\leftarmactor.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\leftarmactor.generated.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\rightarmactor1.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\rightarmactor1.generated.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\headactor.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\headactor.generated.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\leftlegactor.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\leftlegactor.generated.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\rightlegactor.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\rightlegactor.generated.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\source\\multiplayerpartygame\\torsoactor.h",
+            "c:\\unreal\\multiplayerpartygame\\multiplayerpartygame\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerpartygame\\uht\\torsoactor.generated.h"
+>>>>>>> FactoryMapUpdate
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
